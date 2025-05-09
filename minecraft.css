@@ -1,0 +1,8 @@
+body {
+    background: #f0f0f0;
+    font-family: Arial, sans-serif;
+    background-image: url(imagem/paracatnapa.png);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}

@@ -1,0 +1,26 @@
+body{
+    background: #f0f0f0;
+    font-family: Arial, sans-serif;
+    background-image:url(imagem/paracatnapa.png);
+    background-size:cover;
+    background-position:center;
+    background-attachment: fixed;
+}
+
+h1{
+    color: antiquewhite;
+    text-align: start;
+}
+.Menu{
+    background-color:indianred;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 10px;
+    
+}
+.titu1 {
+   
+}
+.Menubutun2{
+    border-radius: 10px;
+}
