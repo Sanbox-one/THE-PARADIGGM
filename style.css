@@ -42,6 +42,18 @@ article {
 article h2 {
     color: antiquewhite;
   }
+.Menubutun2{
+    border-radius: 10px;
+}
+footer {
+    text-align: center;
+    background-color: indianred;
+    padding: 15px;
+    margin-top: 100px;
+    font-size: 0.9em;
+    border-radius: 10px;
+    
+}
 .book-text {
       max-width: 600px;        /* largura parecida com página de livro */
       text-align: justify;     /* justifica o texto */
@@ -52,15 +64,4 @@ article h2 {
       padding: 30px 40px;
       box-shadow: 0 1px 5px rgba(0,0,0,0.1);
       border-radius: 15px;
-}
-.Menubutun2{
-    border-radius: 10px;
-}
-footer {
-    text-align: center;
-    background-color: indianred;
-    padding: 15px;
-    margin-top: 100px;
-    font-size: 0.9em;
-    
 }
