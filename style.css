@@ -42,6 +42,17 @@ article {
 article h2 {
     color: antiquewhite;
   }
+.book-text {
+      max-width: 600px;        /* largura parecida com página de livro */
+      text-align: justify;     /* justifica o texto */
+      text-indent: 2em;        /* recuo da primeira linha do parágrafo */
+      line-height: 1.1;        /* espaço entre linhas para facilitar leitura */
+      font-size: 18px;         /* tamanho confortável para leitura */
+      color: #222;
+      padding: 30px 40px;
+      box-shadow: 0 1px 5px rgba(0,0,0,0.1);
+      border-radius: 15px;
+}
 .Menubutun2{
     border-radius: 10px;
 }
