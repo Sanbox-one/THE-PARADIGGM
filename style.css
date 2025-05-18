@@ -33,13 +33,15 @@ article {
 
 article h2 {
     color: antiquewhite;
+  }
 .Menubutun2{
     border-radius: 10px;
 }
 footer {
-  text-align: center;
-  background-color:indianred;
-  padding: 15px;
-  margin-top: 480px;
-  font-size: 0.9em;
+    text-align: center;
+    background-color: indianred;
+    padding: 15px;
+    margin-top: 100px;
+    font-size: 0.9em;
+    
 }
